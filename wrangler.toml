@@ -1,5 +1,5 @@
 name = "spring"
-main = "index.js"
+main = "_worker.js"
 compatibility_date = "2025-11-09"
 workers_dev = true
 preview_urls = true
