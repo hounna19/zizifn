@@ -11,7 +11,7 @@ send_metrics = false
 minify = false
 
 [vars]
-UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
+UUID = "68bbd147-6e89-4c1d-aa79-9bac8244e904"
 PROXYIP = "nima.nscl.ir"
 
 # [build]
